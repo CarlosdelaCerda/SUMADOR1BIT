@@ -24,10 +24,10 @@ wire s1,c1,s2;
     C_AND U4 (.OUT(s2), .A(s1), .B(ui_in[2]));
     C_XOR U5 (.OUT(uo_out[1]), .A(s2), .B(c1);
 
-assign uo_out [7:2] = 6'b0;
-assign uio_out [7:0] = 8'b0;
-assign uio_oe [7:0] = 8'b0;
+    assign uo_out [7:2] = 6'b0;
+    assign uio_out [7:0] = 8'b0;
+    assign uio_oe [7:0] = 8'b0;
 
-wire _unused = &{ena, clk, rst_n, ui_in [7:3], uio_in [7:0], 1'b0};          
+    wire _unused = &{ena, clk, rst_n, ui_in [7:3], uio_in [7:0], 1'b0};          
 
 endmodule
