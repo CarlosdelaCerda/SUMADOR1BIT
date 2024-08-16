@@ -13,7 +13,7 @@ Es un sumador completo de 1 bit
 
 ## How to test
 
-Con señles de entrada A, B y C_IN
+Con señales de entrada A, B y C_IN
 
 ## External hardware
 
