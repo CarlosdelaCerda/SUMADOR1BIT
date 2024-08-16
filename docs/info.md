@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Es un sumador completo de 1 bit
+ES UN SUMADOR COMPLETO DE 1 BIT
 
 ## How to test
 
-Con señales de entrada A, B y C_IN
+CON SEÑALES DE ENTRADA A, B Y C_IN
 
 ## External hardware
 
-Generador de señles y LEDs
+GENERADOR DE SEÑALES Y LEDS
